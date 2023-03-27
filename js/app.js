@@ -713,7 +713,7 @@ const imgFilter = [
   "media.jpg",
   "photo.jpg",
   "graphic-designer.webp",
-  "website-design-new.jpeg",
+  "website-Design-new.jpeg",
   "تنزيل.jpeg",
 ];
 
